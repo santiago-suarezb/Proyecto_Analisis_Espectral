@@ -50,7 +50,7 @@ de 0, esto debido a que no presenta sentido físico un tamaño de 0 Hz para el a
 <H3>Autores ✒️ </H3></p>
 
 <b>Daniel Duque Urrego</b> - Trabajo Inicial, Documentación - danielduqueu. </p> 
-<b>Santiago Suárez Bustamante</b> - Trabajo Inicial, Documentación - santiago-suarezb </p>
+<b>Santiago Suárez Bustamante</b> - Trabajo Inicial, Documentación - santiago_suarezb </p>
 
 
 <H3>Licencia 📄</H3></p>
