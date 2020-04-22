@@ -2,7 +2,7 @@
 
 <P ALIGN="justify">El proyecto está enfocado en poder realizar un análisis frecuencial por medio de una interfaz gráfica, en ella el usuario podrá variar 
 los parámetros que son requeridos por el proceso Welch y Multitaper, adicional a esto, se podrá dar visualización a un método gráfico
-como lo es el Wavelet contunuo (tiempo - frecuencia), que consiste en un espectograma con distribución de colores. Además, permite 
+como lo es el Wavelet continuo (tiempo - frecuencia), que consiste en un espectograma con distribución de colores. Además, permite 
 retirar el nivel DC que traen algunas señales por defecto, lo que favorece un mejor análisis final.
 
 <H3>Comenzando 🚀 </H3></p>
