@@ -54,7 +54,7 @@ de 0, esto debido a que no presenta sentido físico un tamaño de 0 Hz para el a
 
 
 <H3>Licencia 📄</H3></p>
-Este proyecto es totalmente gratuido.</p>
+Este proyecto es totalmente gratuito.</p>
 
 
 <H3>Comenta a otros sobre este proyecto!! 📢</H3>
